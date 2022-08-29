@@ -1,3 +1,3 @@
 # Brian the Brain
 
-https://github.com/isaacjeffersonlee/brian-notes
+https://brian-notes.herokuapp.com/
